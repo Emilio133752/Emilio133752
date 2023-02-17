@@ -1,6 +1,6 @@
 # :octocat: Emilio Santos
 
-Professor da área de tecnologia da informação, atuando em duas área, redes de computador e desenvolvimento.
+Entusiasta da área de programção, com o intuito de se tornar o melhor..
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Emilio133752/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/emilio12/)
