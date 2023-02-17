@@ -18,11 +18,3 @@ Entusiasta da área de programção, com o intuito de se tornar o melhor..
 ## GITHUB
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fernandoleonid&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoleonid&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 💡 Dica para treinar lógica de programação
-
-- [Hackerrank](https://www.hackerrank.com/)
-- [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-- [LeetCode](https://leetcode.com/)
-- [CodeWars](https://www.codewars.com/)
