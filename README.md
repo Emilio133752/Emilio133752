@@ -1,6 +1,6 @@
 # :octocat: Emilio Santos
 
-Entusiasta da área de programção, com o intuito de me tornar o melhor..
+Entusiasta da área de programação, com o intuito de me tornar o melhor..
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Emilio133752/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/emilio12/)
