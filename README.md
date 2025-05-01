@@ -16,5 +16,13 @@ Entusiasta da área de programação, com o intuito de me tornar o melhor..
 ![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
 
 
+<div>
+<a href="https://github.com/Emilio133752">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
 ![Snake animation](https://github.com/Emilio133752/Emilio133752/blob/main/dist/github-snake-dark.svg)
 
