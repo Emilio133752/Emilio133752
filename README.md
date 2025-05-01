@@ -29,6 +29,5 @@ Entusiasta da área de programação, com o intuito de me tornar o melhor..
   <img src="https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic" />
 </div>
 
-## Snake Animation
 
 ![Snake animation](https://github.com/Emilio133752/Emilio133752/blob/main/dist/github-snake-dark.svg)
