@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       # Gerar o arquivo SVG da cobrinha
       - uses: Platane/snk@v3
@@ -27,7 +27,7 @@ jobs:
 
       # Exibe o conteúdo gerado
       - name: Upload Snake Animation
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: snake-animation
           path: dist/
