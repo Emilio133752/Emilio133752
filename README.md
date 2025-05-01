@@ -2,27 +2,33 @@
 
 Entusiasta da área de programação, com o intuito de me tornar o melhor..
 
+<div>
+  <a href="https://github.com/Emilio133752">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilio133752&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+  <a href="https://github.com/Emilio133752">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Emilio133752&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+## Contatos
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Emilio133752/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo)](https://www.linkedin.com/in/emilio12/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:emiliocantil726@gmail.com)
 
-##
-![](https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
-
+## Tecnologias que eu uso
 
 <div>
-<a href="https://github.com/Emilio133752">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilio133752&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Emilio133752&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://img.shields.io/badge/‎-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/‎-HTML-CC342D?logo=html5&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/‎-CSS-1572B6?logo=css3&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/‎-NodeJS-339933?logo=Node.js&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/‎-Git-F05032?logo=git&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/‎-GitHub-181717?logo=github&logoColor=white&style=plastic" />
+  <img src="https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic" />
 </div>
 
-
+## Snake Animation
 
 ![Snake animation](https://github.com/Emilio133752/Emilio133752/blob/main/dist/github-snake-dark.svg)
-
